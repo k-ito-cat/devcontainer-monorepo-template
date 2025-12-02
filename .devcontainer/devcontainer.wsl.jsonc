@@ -1,5 +1,5 @@
 {
-  "name": "devcontainer-template",
+  "name": "devcontainer-monorepo-template",
   "dockerComposeFile": "docker-compose.yml",
   "service": "app",
   "workspaceFolder": "/workspace",

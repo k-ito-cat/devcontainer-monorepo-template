@@ -3,9 +3,6 @@ node = "24"
 bun = "latest"
 pnpm = "latest"
 
-[env]
-NODE_ENV = "development"
-
 [tasks.dev]
 run = "pnpm dev"
 
