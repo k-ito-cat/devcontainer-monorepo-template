@@ -1,4 +1,4 @@
-# devcontainer-template
+# devcontainer-monorepo-template
 
 - devcontainer.base.jsonc - OS 非依存の共通設定
 - devcontainer.wsl.jsonc - WSL 専用の設定(1Password SSH agent のマウント)
