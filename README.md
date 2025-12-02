@@ -10,11 +10,11 @@
 ### WSL の場合
 
 ```bash
-cp .devcontainer/devcontainer.wsl.json .devcontainer/devcontainer.json
+cp .devcontainer/devcontainer.wsl.jsonc .devcontainer/devcontainer.json
 ```
 
 ### その他の OS の場合
 
 ```bash
-cp .devcontainer/devcontainer.base.json .devcontainer/devcontainer.json
+cp .devcontainer/devcontainer.base.jsonc .devcontainer/devcontainer.json
 ```
