@@ -1,5 +1,12 @@
-# devcontainer-monorepo-template
+# devcontainer-template
 
+## GUI(VSCode)
+
+
+## CLI
+
+
+## SSH
 
 CursorでDevcontainer接続する場合は、CursorはSSH Agentの転送をサポートしていないので以下をdevcontainer.jsonに記述して明示的にマウントすること
 ```
